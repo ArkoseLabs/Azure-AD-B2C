@@ -30,6 +30,7 @@ To validate the token using your private key you'll need to host a backend serve
 4. Continue with the instructions above, specfically the section called "Update locally and redeploy the code" to commit changes to the hosted repo. 
 5. Update the blob index.html file on line 86. Replace <app name> with the same app name used in the "Create a web app" section of the instructions above. Ex: http://<app name>.azurewebsites.net
 
+Note: callback.php is not required though helps user with responses  
 
 ## Arkose Labs - Sign up 
 Reach out to our team to sign up for a merchant account via this [link](https://www.arkoselabs.com/contact-sales/) or at (800) 604-3319. The team can provide a tailored demo at https://www.arkoselabs.com/book-a-demo/
