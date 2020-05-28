@@ -17,7 +17,7 @@ To get your development and production environments along with your public and p
 1. Create a B2C Directory + subscription per [link](https://azure.microsoft.com/en-us/services/active-directory/external-identities/b2c/)
 2. Follow these steps to create a custom user flow including, storage account and a blob file that will hold the index.html file in this repo [link](https://docs.microsoft.com/en-us/azure/active-directory-b2c/tutorial-customize-ui)
 3. Once you have the user flow customized follow these steps to enable javascript for the given user flow [link](https://docs.microsoft.com/en-us/azure/active-directory-b2c/user-flow-javascript-overview)
-4. Replace <PUBLIC_KEY> in index.html on line 21 with your public key.
+4. Replace <PUBLIC_KEY> in index.html on line 64 with your public key.
 
 Note: to make your own styling you can remove all the default styling in index.html on lines 4 to 17.
 
